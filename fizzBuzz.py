@@ -22,3 +22,4 @@ def fizz_buzz(max_value = 100):
       continue
     else:
       print(num)
+
